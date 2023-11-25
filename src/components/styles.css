@@ -1,0 +1,17 @@
+tr:nth-of-type(even){
+    background-color:rgb(31,42,74);
+}
+tr:nth-of-type(odd){
+    background-color: rgb(0,14,51);
+
+}
+tr{
+    height: 50px;
+   
+}
+td,th{
+    white-space: nowrap;
+    text-align: center;
+    justify-content: center;
+    vertical-align: middle;
+}
